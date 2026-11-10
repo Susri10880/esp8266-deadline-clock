@@ -116,5 +116,3 @@ Deadline information is stored in EEPROM emulation, allowing the configured dead
 ## 📜 License
 
 This project is open-source. You can use, modify, and improve it for personal and educational purposes.
-
-A formal license can be added to the repository when desired.
